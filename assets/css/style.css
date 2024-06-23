@@ -378,8 +378,8 @@ header {
             height: 40px; /* Définir la hauteur souhaitée */
  }
  .icons {
-    width: 60px; /* Définir la largeur souhaitée */
-            height: 60px; /* Définir la hauteur souhaitée */
+    width: 35px; /* Définir la largeur souhaitée */
+            height: 35px; /* Définir la hauteur souhaitée */
  }
 .moucpAft::after {
     content: "";
