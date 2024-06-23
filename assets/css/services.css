@@ -226,7 +226,7 @@ header {
 }
 
 .main {
-    height: calc(140vh - 62px);
+    height: calc(120vh - 62px);
     background-color: #e7f4fa
 }
 
@@ -272,31 +272,20 @@ header {
     padding: 12px
 }
 
-
 .icon1 {
-    background-color: #efeaff
+    background-color: #fff2f2
 }
 
 .icon2 {
-    background-color: #ecffda
+    background-color: #e2f3ff
 }
 
 .icon3 {
-    background-color: #ffdaf3
+    background-color: #f1e8ff
 }
 
 .icon4 {
-    background-color: #accdff
-}
-.icon5 {
-    
-    background-color: #f5ffa0
-}
-.icon5 {
-    background-color: #fbb8ff
-}
-.icon6 {
-    background-color: #c5ff8f
+    background-color: #ffe7fb
 }
 
 .sec2--h3 {
