@@ -226,7 +226,7 @@ header {
 }
 
 .main {
-    height: calc(120vh - 62px);
+    height: calc(130vh - 12px);
     background-color: #e7f4fa
 }
 
@@ -265,6 +265,7 @@ header {
 
 .main--container {
     width: 80%;
+    
     margin: auto
 }
 
