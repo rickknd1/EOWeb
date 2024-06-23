@@ -226,7 +226,7 @@ header {
 }
 
 .main {
-    height: calc(210vh + 60px);
+    height: calc(220vh + 60px);
     background-color: #e7f4fa
 }
 
